@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SHOP_LIAMA/static/css/main.967ffced.css",
-    "main.js": "/SHOP_LIAMA/static/js/main.c7c7175a.js",
+    "main.js": "/SHOP_LIAMA/static/js/main.1da33680.js",
     "static/media/bcgr.svg": "/SHOP_LIAMA/static/media/bcgr.02f58ec064e540b6d986.svg",
     "static/media/image 14.svg": "/SHOP_LIAMA/static/media/image 14.a7fb2ef2847f12ce9946bdd918e07b88.svg",
     "static/media/image 12.svg": "/SHOP_LIAMA/static/media/image 12.8254efe15372433ffe3a66fa1d31c18a.svg",
@@ -15,10 +15,10 @@
     "index.html": "/SHOP_LIAMA/index.html",
     "static/media/star2.svg": "/SHOP_LIAMA/static/media/star2.9cd8e2b255f5b5991ae5302793d47fb5.svg",
     "main.967ffced.css.map": "/SHOP_LIAMA/static/css/main.967ffced.css.map",
-    "main.c7c7175a.js.map": "/SHOP_LIAMA/static/js/main.c7c7175a.js.map"
+    "main.1da33680.js.map": "/SHOP_LIAMA/static/js/main.1da33680.js.map"
   },
   "entrypoints": [
     "static/css/main.967ffced.css",
-    "static/js/main.c7c7175a.js"
+    "static/js/main.1da33680.js"
   ]
 }
